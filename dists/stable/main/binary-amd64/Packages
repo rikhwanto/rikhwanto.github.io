@@ -1,0 +1,12 @@
+Package: snowflake-proxy
+Maintainer: Ridhwan Ikhwanto <ridhwan@ikhwanto.com>
+Architecture: amd64
+Version: 1.1.0-1
+Filename: pool/main/s/snowflake-proxy/snowflake-proxy_1.1.0-1_amd64.deb
+Size: 4959744
+MD5sum: 0b37a1b91c111f8088c046ad95d1b7e0
+SHA1: 870f470bda08f12197dac865a21b0996f9c58572
+SHA256: 93089ccc002b21aef85672cd265fdd51bd64320fb674b3bff59f533efb9ee7df
+SHA512: 7feb862daf4f7da0d5012ffdaef0cc3c261db4702ae60a62f6f0fffc511c14392a8e4ba7af32b1e28af97a21b9e9d556987d4848a08b16fe2dd42854c10b2f9d
+Description: Standalone Snowflake proxy.
+
